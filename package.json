@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "should": "^13.2.3"
+  },
+  "name": "testasync",
+  "version": "1",
+  "description": "task18",
+  "main": "index.js",
+  "repository": "https://github.com/Lemeri02/testasync18.git",
+  "author": "IskuzhinIR",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
