@@ -1,3 +1,5 @@
 # testasync18
  Task #18
-// смотрим папку test/index.test.js
+// смотрим папку test/
+файл index.test.js
+loop.test.js
